@@ -22,8 +22,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(sfml-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/SFML/SFML.git" "GIT_TAG" "2.6.x"
-                    SOURCE_DIR          "C:/Data/repos/klipper-12x4-display-design-tool/cmake-build-debug/_deps/sfml-src"
-                    BINARY_DIR          "C:/Data/repos/klipper-12x4-display-design-tool/cmake-build-debug/_deps/sfml-build"
+                    SOURCE_DIR          "C:/Data/repos/klipper-16x4-display-design-tool/cmake-build-debug/_deps/sfml-src"
+                    BINARY_DIR          "C:/Data/repos/klipper-16x4-display-design-tool/cmake-build-debug/_deps/sfml-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""
