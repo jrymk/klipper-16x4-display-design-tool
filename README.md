@@ -3,9 +3,9 @@
 ![image](https://github.com/jrymk/klipper-16x4-display-design-tool/assets/39593345/5341fd8d-50a6-4c57-a914-88160bff46b8)
 
 - Uses default bitmap font pulled straight from Klipper repo
-- Align glyphs and icons with text easily
-- Draw glyphs visually
-- Quickly export the whole screen as a display group for doing weird stuff
+- Align icons with text and get the proportions right easier
+- Draw glyphs visually on a 1x1 grid instead of using `.` and `*` one pixel at a time on a text editor.
+- Quickly export a glyph or the whole screen as a display group for doing weird stuff
 
 ---
 
